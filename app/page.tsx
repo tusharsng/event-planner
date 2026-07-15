@@ -11,7 +11,7 @@ export default function Home() {
           Next.js 16 + Better Auth + Neon Postgres
         </Badge>
         <h1 className="text-4xl font-semibold tracking-tight">
-          Plan Evetns and track RSVPs fast
+          Plan Events and track RSVPs fast
         </h1>
         <p className="max-w-2xl text-muted-foreground">
           Create events, share a unique invite link, and watch attendee status update in real-time.
