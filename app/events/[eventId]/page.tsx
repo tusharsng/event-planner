@@ -1,6 +1,8 @@
 import { EventDetailsContent } from "@/components/event-detail-content";
 import { auth } from "@/lib/auth/server";
 
+export const dynamic = "force-dynamic";
+
 export default async function EventDetailsPage({
   params,
 }: {
